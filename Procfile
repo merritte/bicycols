@@ -1,0 +1,1 @@
+web: gunicorn bicycols.wsgi --log-file -
